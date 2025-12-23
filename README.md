@@ -1,6 +1,6 @@
 grocery_project/
 │
-├─ src/
+\├─ src/
 │   ├─ model/        # Core entities (Product, Order, Basket, Rewards)
 │   ├─ service/      # Business logic (Inventory, Statistics)
 │   ├─ user/         # User roles and authentication
